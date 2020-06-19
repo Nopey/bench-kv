@@ -1,0 +1,9 @@
+[submodule "quickkv"]
+	path = quickkv
+	url = https://github.com/Nopey/QuickKV.git
+[submodule "fastkv"]
+	path = fastkv
+	url = https://github.com/Nopey/fastkv.git
+[submodule "crunchy-vdf"]
+	path = crunchy-vdf
+	url = https://github.com/Nopey/crunchy-vdf.git
